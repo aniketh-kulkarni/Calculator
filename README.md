@@ -11,4 +11,4 @@ The Calculator can perform Operations includes:
   3. Multiplication(*)
   4. Division(/)
   5. EqualsTo(=)
-  6. Point(.)...... This can be operated as a Decimal Point when peroforming and calculating the Decimal Numbers.
+  6. Point(.)...... This can be operated as a Decimal Point when performing and calculating the Decimal Numbers.
